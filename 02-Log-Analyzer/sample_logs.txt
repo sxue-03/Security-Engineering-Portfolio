@@ -1,6 +1,0 @@
-Nov  4 09:12:01 server sshd[1234]: Failed password for invalid user admin from 192.168.1.5 port 54321 ssh2
-Nov  4 09:12:05 server sshd[1235]: Failed password for invalid user admin from 192.168.1.5 port 54321 ssh2
-Nov  4 09:12:07 server sshd[1236]: Accepted password for root from 192.168.1.10 port 54410 ssh2
-Nov  4 09:13:00 server sshd[1237]: Failed password for invalid user guest from 192.168.1.5 port 54321 ssh2
-Nov  4 09:13:20 server sshd[1238]: Failed password for invalid user guest from 192.168.1.5 port 54321 ssh2
-Nov  4 09:13:45 server sshd[1239]: Failed password for invalid user guest from 192.168.1.5 port 54321 ssh2
