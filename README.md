@@ -39,5 +39,5 @@ Each project folder contains:
 - Hands-on artifacts such as code, configurations, and logs
 - Security reasoning and design decisions
 
-Some projects are also available as standalone repositories for historical reference.
 This portfolio represents the primary and current version.
+
